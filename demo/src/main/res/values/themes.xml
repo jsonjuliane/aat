@@ -1,0 +1,8 @@
+<resources>
+    <!-- Theme used by demo app. The toolkit will switch aspects of styling (e.g., high contrast) at runtime. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:textColorPrimary">@color/colorForeground</item>
+    </style>
+</resources>
+

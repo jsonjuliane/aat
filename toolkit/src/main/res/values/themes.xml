@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.AccessibilityToolkit.Default" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+
+    <style name="Theme.AccessibilityToolkit.HighContrast" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>
+

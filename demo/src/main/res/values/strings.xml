@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Accessibility Toolkit Demo</string>
+    <string name="read_aloud">Read aloud</string>
+    <string name="text_size">Text size</string>
+    <string name="high_contrast">High contrast</string>
+    <string name="font_style">Font style</string>
+    <string name="font_sans">Sans-serif</string>
+    <string name="font_mono">Monospace</string>
+    <string name="language">Language</string>
+    <string name="language_en">English</string>
+    <string name="language_es">Español</string>
+    <string name="second_screen_title">Second screen</string>
+    <string name="second_body">This is the second screen content. It also updates for text size, high contrast, font style, and language.</string>
+    <string name="main_title">Accessibility Toolkit Demo</string>
+    <string name="main_body">Adjust text size, toggle high contrast, change font style, and listen with text-to-speech.</string>
+    <string name="open_second_screen">Open second screen</string>
+</resources>
+

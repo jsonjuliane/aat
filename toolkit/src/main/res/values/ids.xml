@@ -1,0 +1,6 @@
+<resources>
+    <item type="id" name="accessibility_originalTextSizePx" />
+    <item type="id" name="accessibility_appliedFontStyle" />
+    <item type="id" name="accessibility_appliedHighContrast" />
+</resources>
+

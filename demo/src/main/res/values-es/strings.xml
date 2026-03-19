@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Demo de accesibilidad</string>
+    <string name="read_aloud">Leer en voz alta</string>
+    <string name="text_size">Tamaño del texto</string>
+    <string name="high_contrast">Alto contraste</string>
+    <string name="font_style">Tipo de letra</string>
+    <string name="font_sans">Sans-serif</string>
+    <string name="font_mono">Monoespaciada</string>
+    <string name="language">Idioma</string>
+    <string name="language_en">Inglés</string>
+    <string name="language_es">Español</string>
+    <string name="second_screen_title">Segunda pantalla</string>
+    <string name="second_body">Este es el contenido de la segunda pantalla. También se actualiza para tamaño de texto, alto contraste, tipo de letra e idioma.</string>
+    <string name="main_title">Demo de accesibilidad</string>
+    <string name="main_body">Ajusta el tamaño del texto, activa alto contraste, cambia la fuente y escucha con texto a voz.</string>
+    <string name="open_second_screen">Abrir segunda pantalla</string>
+</resources>
+
